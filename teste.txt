@@ -1,1 +1,0 @@
-inicializa repositorio e configura usuario
